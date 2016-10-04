@@ -5,10 +5,10 @@ layout: default
     {% for post in site.posts %}
   <div class="col-md-4 col-xs-12 col-md-offset-0 home-posts">
     <a href="{{ post.url | prepend: site.baseurl }}">
-      <div class="header-post" style="background-image:url({{site.utl}}/images/post_thumb1.jpg)">
+      <div class="header-post" style="background-image:url({{site.url}}/images/post_thumb1.jpg)">
 
       </div>
-      
+
     </a>
     <div class="content">
       <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
