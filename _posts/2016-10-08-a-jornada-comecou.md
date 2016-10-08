@@ -21,5 +21,5 @@ Precisamos de criação , desenvolvedores , estudantes para fazer parte e criarm
 ## Eu quero Ajudar ! `Vamos tomar um café juntos`
 Para fazer parte  é facil ! basta escrever um email para <a href="mailto:{{ site.email }}">{{ site.email }}</a>, com seus dados e uma forma de mantermos contato.
 
-##Sobre o Ghost
+## Sobre o Ghost
 Saiba mais sobre a plataforma <a href="https://ghost.org/" >aqui</a>
