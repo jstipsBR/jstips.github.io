@@ -9,8 +9,8 @@
 title: jstips - All about javascript you needed.
 email: jstips@jstips.com.br
 description: Um novo site com conteúdos exclusivos sobre JavaScript está surgindo
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "/" # the base hostname & protocol for your site
+baseurl: "/jstips" # the subpath of your site, e.g. /blog
+url: "http://jstipsbr.github.io/jstips" # the base hostname & protocol for your site
 github: "http://github.com/jstipsBR"
 twitter: "https://twitter.com/jstipsBR"
 
